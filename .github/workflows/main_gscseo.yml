@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'GSCSEO'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_239413E9ED2C450BA457FF6E0EA68580 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8AE7EF6E7E34485691B0BB5F01FE4A62 }}
           package: .
